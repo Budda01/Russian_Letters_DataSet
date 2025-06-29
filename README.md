@@ -23,7 +23,8 @@ This repository contains a dataset of printed Russian alphabet letters for machi
 - The letter **"ы"** is represented as two characters: **"ь"** and **"I"**.  
   Буква **"ы"** представлена как два отдельных символа: **"ь"** и **"I"**.
 
----
+## 📚 Citation / Цитирование
+If you use this dataset, please cite the repository:  
+Если вы используете этот датасет, пожалуйста, укажите ссылку на репозиторий:
 
-## Example Structure / Пример структуры
 
